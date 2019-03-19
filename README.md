@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dpl [![Build Status](https://travis-ci.org/travis-ci/dpl.svg?branch=master)](https://travis-ci.org/travis-ci/dpl) [![Code Climate](https://codeclimate.com/github/travis-ci/dpl.png)](https://codeclimate.com/github/travis-ci/dpl) [![Gem Version](https://badge.fury.io/rb/dpl.png)](http://badge.fury.io/rb/dpl) [![Coverage Status](https://coveralls.io/repos/travis-ci/dpl/badge.svg?branch=master&service=github)](https://coveralls.io/github/travis-ci/dpl?branch=master)
 
 ## Writing and Testing a New Deployment Provider and new functionality
@@ -966,3 +967,7 @@ provider code may not have sufficient permissions.
 
 In this case, you can install the provider gem (of the same version as
 `dpl`) with `sudo` beforehand to work around this issue.
+=======
+# dpl_for_cd
+Dpl is a deploy tool made for continuous deployment.
+>>>>>>> dab9af0a7ff3572facec70a5ed306f73d5c64767
